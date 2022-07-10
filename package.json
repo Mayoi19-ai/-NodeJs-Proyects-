@@ -4,7 +4,7 @@
   "description": "primer servidor nodejs",
   "main": "app.js",
   "scripts": {
-    "develop": "nodemon app.js",
+    "develop": "nodemon app",
     "start": "node app"
   },
   "author": "katy",
